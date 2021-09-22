@@ -11,20 +11,16 @@ date: '2020-08-01 11:27'
 modified: '2020-08-01 11:27'
 comments: true
 share: true
-figure1: machinelarning_histo_housing
-figure3A: machinelarning_linregnaive
-figure3B: machinelarning_linregmodel
+
 ---
 
-## Introduktion
+## Introduction
 
 Xenon lights have a remarkably stable emission in the visible wavelength, and all the way up to 900 nm.
 
-Barthelme 20710330 Xenon High-pressure Bulb T1 3.0V 0.9W 300mA Bi-Pin
+Barthelme 20710330 Xenon High-pressure Bulb T1 3.0V 0.9W 300mA Bi-Pin is available from [Conrad.se](https://www.conrad.se/p/barthelme-20710330-xenonlampa-3-v-090-w-sockel-bi-pin-127-mm-1-st-584939) at 28 SEK (3 €).
 
-Kolla i det här alternativet
-https://pchbutik.se/led/206-stark-lysdiod-pa-kretskort-styrning-gpio-passar-arduino.html?search_query=led&results=479
-
-### Availability in Sweden
-
-[Osram White led, Barthelme](https://www.elfa.se/sv/osram-stroemlysdiod-vit-barthelme-61003728/p/30080321?channel=b2c&price_gs=49.9125&wt_mc=se.cse.gshop.sv.-&source=googleps&ext_cid=shgooaqsesv-blcss&kw=%7Bkeyword%7D&ext_cid=shgooaqsesv-P-CSS-Shopping-MainCampaign-Optoelectronics&gclid=CjwKCAjwmrn5BRB2EiwAZgL9oiUADyThLWwIDQYgo447FmncGeGYOLImH2Sgvv4zYf-QlyHAb5V4xRoCFo4QAvD_BwE)
+<figure>
+<img src="../../images/xenon-barthelme_3V-09W.png">
+<figcaption> Barthelme xenon bulb 3V, 300 mA, 0.90 W. </figcaption>
+</figure>

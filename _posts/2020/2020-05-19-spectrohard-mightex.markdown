@@ -21,7 +21,6 @@ figure3B: machinelarning_linregmodel
 
 [Mightex](https://www.mightexsystems.com)
 
-
 ### Reseller
 
 Mightex Australian reseller [SciTech](https://scitech.com.au/spectroscopy/mightex-optical-spectrometers/) have a better presetnation than Mightex self.

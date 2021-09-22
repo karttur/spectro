@@ -19,7 +19,7 @@ figure3B: machinelarning_linregmodel
 
 ## Introduktion
 
-There are lots of DIY for building spectroetmers.
+There are lots of DIY for building spectrometers.
 
 ### Web-cam based
 
@@ -30,7 +30,6 @@ There are lots of DIY for building spectroetmers.
 Link to [theremino open source spectrometeter software](https://www.theremino.com/en/downloads/automation) - search for _spectrometer_, and you should get to the correct item.
 
 https://www.theremino.com/en/downloads/automation#Theremino_Spectrometer
-
 
 #### Andreas Speiss
 

@@ -18,4 +18,4 @@ figure3B: machinelarning_linregmodel
 
 ## Introduktion
 
-The light source can be the sun, or any light bulb, led or other artifical light source. An ideal light source emits equally intense over the full range of wavelengths of the sensor.
+The light source can be the sun, or any light bulb, led or other artificial light source. An ideal light source emits equally intense over the full range of wavelengths of the sensor.

@@ -19,6 +19,13 @@ figure3B: machinelarning_linregmodel
 
 ## Introduktion
 
-I can find collimators for lasers that are cheap, for instance [odicforce](https://odicforce.com/9mm-x-05mm-Thread-PMMA-Laser-Focusing-Lens-2-pack).
+I can find collimators for lasers that are cheap, for instance [odicforce](https://odicforce.com/9mm-x-05mm-Thread-PMMA-Laser-Focusing-Lens-2-pack), or [Banggood](https://www.banggood.com/Triple-Glazing-Focusing-Lens-Collimating-Coated-Glass-Lens-Blue-Laser-Diode-405nm-p-1035471.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=SE&utm_content=minha&utm_campaign=minha-se-en-pc&currency=SEK&cur_warehouse=CN&createTmp=1&utm_source=googleshopping&utm_medium=cpc_union&utm_content=xibei&utm_campaign=xibei-ssc-se-all-0716&gclid=CjwKCAiAjeSABhAPEiwAqfxURV4BEo-8K4mmebc4aM68WQF132AYOfcvL74foiEy3xX4LnQUQk_RHBoCsDgQAvD_BwE).
 
-[conrad](https://www.conrad.se/p/laser-components-2014292-kollimatorlins-x-h-7-mm-x-3-mm-1782897?awc=15605_1591002225_cd1a288261095e0830b6563537e438c1&utm_campaign=awin_feed&utm_medium=affiliates&utm_source=aw&utm_source=awin&utm_term=1782897&vat=true) har också, men bara som lins, inget hölje eller fäste.
+[conrad](https://www.conrad.se/p/laser-components-2014292-kollimatorlins-x-h-7-mm-x-3-mm-1782897?awc=15605_1591002225_cd1a288261095e0830b6563537e438c1&utm_campaign=awin_feed&utm_medium=affiliates&utm_source=aw&utm_source=awin&utm_term=1782897&vat=true) har också, men bara som lins, inget hölje eller fäste (search for Kollimatorlins).
+
+
+[Lightpath](https://www.lightpath.com) offers [collimators](https://www.lightpath.com/product/collimator/) threaded to fit the standard optical cables.
+
+[Aliexpress](https://www.aliexpress.com) has collimators that fits on the [sma905 connector](https://www.aliexpress.com/i/32985951194.html).
+
+[Alibaba](https://www.alibaba.com) have lots of different [led colimators](https://www.alibaba.com/showroom/led-lighting-collimator-lens.html).

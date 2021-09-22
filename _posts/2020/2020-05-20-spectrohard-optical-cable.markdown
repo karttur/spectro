@@ -17,7 +17,7 @@ figure3B: machinelarning_linregmodel
 
 ## Introduktion
 
-[Wikipedia](https://en.wikipedia.org/wiki/Optical_fiber_connector) summarizes optical vable connectors. A nice little [summary on Fibre Optics in Spectroscopy, including cable connection](https://particular.ie/wp-content/uploads/2011/08/Fibre-Optics.pdf)
+[Wikipedia](https://en.wikipedia.org/wiki/Optical_fiber_connector) summarizes optical cable connectors. A nice little [summary on Fibre Optics in Spectroscopy, including cable connection](https://particular.ie/wp-content/uploads/2011/08/Fibre-Optics.pdf). I think that the connector used on my spectroemters are sma905.
 
 ### sma905
 
