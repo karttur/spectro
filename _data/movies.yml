@@ -10,7 +10,16 @@ se_202107_xspectre-field-test-736p:
 se_202107_xspectre-field-sampling-736p:
     file: se_202107_xspectre-field-sampling-736p.mp4
     author: Thomas Gumbricht
-    caption: "Soil sampling with xSpectre spectrometer; sampling: Gabriela Gumbricht and Hannah Mosesson, Julita socken, Katrineholm, July 2021"
+    caption: "xSpectre spectrometer version 0.62 produced in July 2021"
+    credit: null
+    source: null
+    width: 736
+    height: 414
+
+se_202107_xspectre-spectrometer-v062-736p:
+    file: se_202107_xspectre-spectrometer-v062-736p.mp4
+    author: Thomas Gumbricht
+    caption: "xSpectre spectrometer version 0.62 produced in July 2021"
     credit: null
     source: null
     width: 736
