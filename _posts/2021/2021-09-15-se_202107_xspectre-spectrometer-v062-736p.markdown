@@ -1,8 +1,8 @@
 ---
 layout: post
-title: xSpectre spectrometer v0.62
+title: xSpectre spectrometer v0.6x
 categories: xspectre
-excerpt: "xSpectre spectrometer version 0.62 produced in July 2021"
+excerpt: "xSpectre spectrometer version 0.6x produced in July 2021"
 tags:
   - xSpectre
   - spectrometer
