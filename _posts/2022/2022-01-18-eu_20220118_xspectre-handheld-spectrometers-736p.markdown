@@ -1,15 +1,15 @@
 ---
 layout: post
-title: xSpectre spectrometer v0.6x
+title: Handheld miniature spectrometers
 categories: xspectre
-excerpt: "xSpectre spectrometer version 0.6x produced in July 2021"
+excerpt: "Developments in soil spectroscopy, Jan 2022"
 tags:
   - xSpectre
-  - spectrometer
-  - v0.6x
-date: '2021-09-15'
-modified: '2021-09-15'
-movie1: se_202107_xspectre-spectrometer-v062-736p
+  - spectrometry
+  - minituarisation
+date: '2022-01-18'
+modified: '2022-01-18'
+movie1: EU-horizon-MISS_soil-spectrometers_202020118
 ---
 
 <figure>

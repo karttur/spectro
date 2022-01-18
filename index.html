@@ -7,9 +7,25 @@ search_omit: true
 ---
 
 A spectrometer consists of four main building blocks:
-a light source, optics, a detector, and some algorithm that converts the spectral data meaningful information. In this blog I have organized some of the information that is required for building a handheld and mobile phone connected spectrometer - from the perspective of spectrometry. The actual putting together of the electronics in covered in my blog on <a>arduino</a> and the casing into which the electronics is put in my blog on <a>3D printing (or reprap)</a> Where RepRap is short for Replicating Rapid-prototyper and really means a 3D printer that can print out a repica of itself.
+a light source, optics, a detector, and some algorithm that converts the spectral data meaningful information. In this blog I have organized some of the information that is required for building a handheld and mobile phone connected spectrometer - from the perspective of spectrometry. The actual putting together of the electronics in covered in my blog on <a>arduino</a> and the casing into which the electronics is put in my blog on <a>3D printing (or reprap)</a> Where RepRap is short for Replicating Rapid-prototyper and really means a 3D printer that can print out a replica of itself.
 
 It is possible to get all the parts of a spectrometer as single pieces, or as a fully assembled spectrometer. It is also possible to get different levels of assembly, like for instance the optics and a detectr, or a detector and a light source, etc.
+
+<h2>xSpectre related posts (presentations, pitches and films)</h2>
+
+<ul class="post-list">
+{% for post in site.categories.xspectre %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
+
+<h2> Spectrometers (market available)</h2>
+
+<ul class="post-list">
+{% for post in site.categories.spectrohard reversed %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
 
 <h2> Light source</h2>
 
@@ -22,8 +38,6 @@ The light source can be the sun, or any light bulb, led or other artifical light
 </ul>
 
 <h2>Optics</h2>
-
-
 
 https://www.researchgate.net/publication/324161531_A_simple_rapid_analysis_portable_low-cost_and_Arduino-based_spectrophotometer_with_white_LED_as_a_light_source_for_analyzing_solution_concentration
 

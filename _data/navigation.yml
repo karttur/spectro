@@ -8,16 +8,28 @@
   url: /
   include: 'N'
 
-- title: Articles
-  url: /overview/
+- title: xSpectre
+  url: /xspectre/
+
+- title: Spectrometers
+  url: /spectrohard/
+  include: 'N'
+
+- title: Software
+  url: /spectrosoft/
+  include: 'N'
+
+- title: Light
+  url: /spectrolight/
+  include: 'N'
+
+- title: Sensors
+  url: /spectrohard/
   include: 'N'
 
 - title: Blog
   url: /blog/
   include: 'N'
-
-- title: xSpectre
-  url: /xspectre/
 
 - title: Search
   url: /search/

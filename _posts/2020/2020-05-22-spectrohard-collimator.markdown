@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collimator
-categories: spectrohard
+categories: spectrohlight
 excerpt: "Collimator"
 tags:
   - trä

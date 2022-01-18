@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  PSpectral applications
+title:  Spectral applications
 categories: xspectre
 excerpt: "Spectral applications"
 tags:

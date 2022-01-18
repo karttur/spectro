@@ -24,3 +24,12 @@ se_202107_xspectre-spectrometer-v062-736p:
     source: null
     width: 736
     height: 414
+
+EU-horizon-MISS_soil-spectrometers_202020118-726p-crf32:
+  file: EU-horizon-MISS_soil-spectrometers_202020118-726p-crf32.mp4
+  author: Thomas Gumbricht
+  caption: "Handheld miniature spectrometers, developments in soil spectroscopy, Jan 2022"
+  credit: null
+  source: null
+  width: 736
+  height: 418

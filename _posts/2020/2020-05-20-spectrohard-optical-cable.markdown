@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optical cables
-categories: spectrohard
+categories: spectrolight
 excerpt: "Alternatives for optical cables"
 tags:
   - Optical cables
